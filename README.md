@@ -110,16 +110,7 @@ jupyter notebook notebooks/inference_evaluation.ipynb   # evaluate a checkpoint
 
 ## Team
 
-EPICS Phase II, VIT Bhopal University — supervised by **Dr. Garima Jain**.
-
-| Member | Role |
-|---|---|
-| Shaurya Negi | Lead Architect |
-| **Sandeep Solanki** | **Model Evaluation & Performance Analysis** |
-| Arnav Rai | AI Developer |
-| Aditya Dinesh Landge | Literature Review & Research |
-| Ayush Raj | Data Preprocessing & Feature Preparation |
-| Dhruv Kumar | Software Developer |
+Developed by a six-member student team as our EPICS Phase II major project at VIT Bhopal University, under the supervision of Dr. Garima Jain. My role on the team: Model Evaluation & Performance Analysis.
 
 ## References
 
